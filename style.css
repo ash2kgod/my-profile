@@ -1,0 +1,112 @@
+body {
+color:white;
+background-color:#adadad;
+background-repeat:no-repeat;
+background-attachment:scroll;
+}
+#logo {
+    width: 300px;
+    margin: 40px;
+    border-radius: 4px;
+}
+p {
+font-weight: lighter;
+color: black;
+font-family: 'Lora', serif;
+}
+h2 {
+font-weight: 700;
+color: black;
+font-family: 'Roboto', sans-serif;
+}
+h2 {
+font-weight: 700;
+color: black;
+font-family: 'Roboto', sans-serif;
+}
+h2 {
+font-weight: 700;
+color: black;
+font-family: 'Roboto', sans-serif;
+}
+h2 {
+font-weight: 700;
+color: black;
+font-family: 'Roboto', sans-serif;
+}
+h2 {
+font-weight: 700;
+color: black;
+font-family: 'Roboto', sans-serif;
+}
+a {
+	text-decoration: none;
+}
+
+/* Custom design with class */
+.container {
+	width: 700px;
+	margin: 40px auto;
+	border: 2px;
+}
+@media (max-width: 500px) {
+	.container {
+		width: 400px;
+	}
+}
+@media (max-width: 500px) {
+	.container {
+		width: 400px;
+	}
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+.shadowed {
+	box-shadow: 5px 5px 3px black;
+}
+.box-design {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+.btn-white {
+	background-color: black;
+	color: #adadad;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+.btn-white:hover {
+	background-color: #adadad;
+	color: white;
+}
+.list-inlite {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 25pt;
+}
+.list-inline i {
+	font-size: 5Opx;
+	color: rgba(230, 230, 230);
+}
+.list-inline i: hover {
+	font-size: 5Opx;
+	color: rgb(230, 230, 230);
+}
+
+/* Design adjustments usind id (1% design remaining) */
+#introduction p {
+	margin-bottom: 40px;
+}
